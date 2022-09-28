@@ -1,7 +1,7 @@
 {
     "name": "react-the-complete-guide",
     "version": "0.1.0",
-    "homepage": "https://mayanksetia13.github.io/dojoBlogReact",
+    "homepage": "https://mayanksetia13.github.io/dojoBlog",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
